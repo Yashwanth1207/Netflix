@@ -1,6 +1,6 @@
 # Netflix
 
-Thank You BHARATH INTERN 
+Thank You BHARATH INTERN,
 I GOT AN OPPORTUNITY FROM THE BHARATH INTERN AS A WEB DEVELOPER INTERN, I FEEL VERY PROUD TO ANNOUNCE THAT I ACCOMPLISHED THE GIVEN PROJECT 
 Bharath Intern Company is offering a fantastic opportunity for aspiring web development interns to join their team and work on an exciting project - 
 the temperature converter. As an intern, you will have the chance to be a part of a dynamic and supportive environment, collaborating with experienced 
